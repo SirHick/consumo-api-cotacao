@@ -1,0 +1,32 @@
+┌──────────────────────────────────────────────────────────────┐
+│  🌎 CONVERSOR DE MOEDAS                                      │
+│  Consulte uma cotação e converta valores entre moedas.      │
+└──────────────────────────────────────────────────────────────┘
+
+              ┌──────────────────────────────┐
+              │      VALOR PARA CONVERTER    │
+              │                              │
+              │          R$ 100,00            │
+              │                              │
+              │  Moeda de origem             │
+              │  [ BRL - Real brasileiro ▼ ] │
+              │                              │
+              │  Moeda de destino            │
+              │  [ USD - Dólar americano ▼ ] │
+              │                              │
+              │      [  CONVERTER  ]         │
+              └──────────────────────────────┘
+
+              ┌──────────────────────────────┐
+              │            RESULTADO         │
+              │                              │
+              │          US$ 19,20           │
+              │                              │
+              │  1 BRL = 0,1920 USD          │
+              │  Cotação utilizada: ...      │
+              └──────────────────────────────┘
+
+       ───────────── COMO FUNCIONA? ─────────────
+
+       O sistema utiliza a taxa de câmbio para
+       calcular o valor equivalente na moeda escolhida.
